@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himesh Samarawickrama</h1>
 <h3 align="center">A passionate undergraduate Full Stack Developer from Sri Lanka.</h3>
 <img src="https://applemagazine.com/wp-content/uploads/2021/03/e1a75d9ce16241ab960a1e84ed70eeed.gif" align="right" alt="Coding" width="400">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himeshsam93&label=Profile%20views&color=0e75b6&style=flat" alt="himeshsam93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himeshsam93&label=Profile%20views&color=b10eb4&style=plastic" alt="himeshsam93" /> </p>
 
 <p align="left"> <a href="https://twitter.com/himesh_sam" target="blank"><img src="https://img.shields.io/twitter/follow/himesh_sam?logo=twitter&style=for-the-badge" alt="himesh_sam" /></a> </p>
 
@@ -32,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himeshsam93&show_icons=true&locale=en" alt="himeshsam93" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himeshsam93&" alt="himeshsam93" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himeshsam93&theme=dark" alt="himeshsam93" /></p>
